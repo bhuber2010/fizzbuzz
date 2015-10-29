@@ -1,4 +1,6 @@
 module.exports = {
+
+
 fizzBuzz: function(min, max) {
   for (var i = min; i <= max; i++) {
       if (i % 15 === 0) {
